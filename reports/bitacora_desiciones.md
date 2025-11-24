@@ -7,3 +7,7 @@
 - Agregamos columna monto de venta = cantidad * precio unitario
 
 - Eliminamos Enero por empezar en el 31
+
+- Creamos columnas de medias moviles y lag para cantidad de ventas por region y categoria
+
+- No rellenamos los NaNs generados por las medias moviles y lag ya que los modelos que usaremos no los requieren
